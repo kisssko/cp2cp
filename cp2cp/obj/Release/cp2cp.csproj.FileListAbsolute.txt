@@ -1,6 +1,4 @@
 D:\kisssko\Documents\SharpDevelop Projects\cp2cp\cp2cp\bin\Release\cp2cp.exe.config
 D:\kisssko\Documents\SharpDevelop Projects\cp2cp\cp2cp\bin\Release\cp2cp.exe
-D:\kisssko\Documents\SharpDevelop Projects\cp2cp\cp2cp\bin\Release\cp2cp.pdb
 D:\kisssko\Documents\SharpDevelop Projects\cp2cp\cp2cp\obj\Release\cp2cp.csprojResolveAssemblyReference.cache
 D:\kisssko\Documents\SharpDevelop Projects\cp2cp\cp2cp\obj\Release\cp2cp.exe
-D:\kisssko\Documents\SharpDevelop Projects\cp2cp\cp2cp\obj\Release\cp2cp.pdb
